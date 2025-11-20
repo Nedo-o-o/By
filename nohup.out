@@ -1,0 +1,4 @@
+  File "/home/ubuntu/telegram_host_bot/src/main.py", line 379
+    elif data == "check_files":
+    ^^^^
+SyntaxError: invalid syntax
